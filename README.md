@@ -13,7 +13,7 @@ Check [OBP](https://github.com/nishad2m8/Squareline-OBP) for Squareline Studio O
 
 | No.  | Thumb | Youtube URL |
 | ------|-----|----------|
-| 01 | ![alt text](<00-Assets/01-LCARS UI on ESP32 Display Panel CYD.jpg>) | |
+| 01 | ![alt text](<00-Assets/01-LCARS UI on ESP32 Display Panel CYD.jpg>) | https://youtu.be/ZLmQb7vWNfI |
 
 
 <!-- | No | Thumb  | URL |  -->
