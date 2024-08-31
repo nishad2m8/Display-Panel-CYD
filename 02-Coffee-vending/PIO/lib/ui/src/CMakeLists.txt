@@ -1,0 +1,23 @@
+SET(SOURCES screens/ui_Main.c
+    screens/ui_Payment.c
+    screens/ui_Preparation.c
+    ui.c
+    components/ui_comp_hook.c
+    ui_helpers.c
+    ui_events.c
+    images/ui_img_images_img_price_png.c
+    images/ui_img_images_img_espresso_png.c
+    images/ui_img_images_img_latte_png.c
+    images/ui_img_images_img_irish_coffee_png.c
+    images/ui_img_images_logo_png.c
+    images/ui_img_images_img_devider_png.c
+    images/ui_img_images_button_back_png.c
+    images/ui_img_images_icon_card_png.c
+    images/ui_img_images_coffee_png.c
+    images/ui_img_images_mask_png.c
+    images/ui_img_images_empty_glass_png.c
+    fonts/ui_font_in25.c
+    fonts/ui_font_in30.c
+    fonts/ui_font_in20.c)
+
+add_library(ui ${SOURCES})

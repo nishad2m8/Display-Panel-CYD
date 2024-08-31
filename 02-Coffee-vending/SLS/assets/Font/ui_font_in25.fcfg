@@ -1,0 +1,16 @@
+{
+  "codename": "in25",
+  "ttf_path": "/assets/Font/Inter-Medium.ttf",
+  "bin_path": "/assets/Font/ui_font_in25.bin",
+  "c_path": "/assets/Font/ui_font_in25.c",
+  "cfg_path": "/assets/Font/ui_font_in25.fcfg",
+  "size": 25,
+  "bpp": 8,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
